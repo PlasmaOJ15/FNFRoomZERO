@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-30,
+				-24
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left Pose"
+		},
+		{
+			"offsets": [
+				-83,
+				-29
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down Pose"
+		},
+		{
+			"offsets": [
+				-79,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up Pose"
+		},
+		{
+			"offsets": [
+				-99,
+				-26
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right Pose"
+		},
+		{
+			"offsets": [
+				-28,
+				-23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Miss Left"
+		},
+		{
+			"offsets": [
+				-84,
+				-33
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Miss Down"
+		},
+		{
+			"offsets": [
+				-87,
+				16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Miss Up"
+		},
+		{
+			"offsets": [
+				-123,
+				-27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Miss Right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-80,
+				-20
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle Dance",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BF_Romm_Zero_Assets",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}
